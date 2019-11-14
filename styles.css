@@ -1,33 +1,57 @@
 p{
   
-    font-size:16px;
+    font-size:17px;
     font-family:cursive;
-    color:rgb(201, 14, 8);}
     
+    margin: 50px;
+    padding-bottom: 5px;
+    }
+body {
+    background-image: url('orange.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
   
   header{
     border-style:inset;
     border-width:5px;
-    border-radius:30%;
+    border-radius:100%;
+    padding:10px;
+    
     border-color:rgb(109, 107, 107);
     font-family: cursive;
     font-size:20px;
-    color:rgb(202, 14, 8);
+    
     text-align:center;
     }
   h3{
     border-style: outset;
     border-radius:100%;
     border-color:rgb(72, 73, 73);
-    color:rgb(202, 14, 8);
+    
     font-size:18px;
     text-align:center;
     font-family:cursive;
     
   }
   img{
+    
     border-style:inset;
     border-color:rgb(72, 73, 73);
     border-width:3px;
   }
+ 
+a, h3, header,p {
+    color: rgb(131, 51, 120);
+  }
   
+#foo{
+    font-size:10px;
+    color:white;
+    text-align:center;
+    border-style:inset;
+    border-radius:100%
+    
+    }  
+
