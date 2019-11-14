@@ -1,0 +1,33 @@
+p{
+  
+    font-size:16px;
+    font-family:cursive;
+    color:rgb(201, 14, 8);}
+    
+  
+  header{
+    border-style:inset;
+    border-width:5px;
+    border-radius:30%;
+    border-color:rgb(109, 107, 107);
+    font-family: cursive;
+    font-size:20px;
+    color:rgb(202, 14, 8);
+    text-align:center;
+    }
+  h3{
+    border-style: outset;
+    border-radius:100%;
+    border-color:rgb(72, 73, 73);
+    color:rgb(202, 14, 8);
+    font-size:18px;
+    text-align:center;
+    font-family:cursive;
+    
+  }
+  img{
+    border-style:inset;
+    border-color:rgb(72, 73, 73);
+    border-width:3px;
+  }
+  
